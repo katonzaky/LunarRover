@@ -1,0 +1,10 @@
+<!-- Sample luna rover map -->
+<lunarovermap units="metres">
+	<vehicle-status>
+		<point x="700" y="100"/>
+		<attribute>
+			<key>heading</key> <!-- in degress -->
+			<value>180</value> <!-- 0 is north, increasing CW -->
+		</attribute>	
+	</vehicle-status>
+</lunarovermap>

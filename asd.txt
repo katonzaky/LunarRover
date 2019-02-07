@@ -1,0 +1,16 @@
+In the 3 project approach:
+Explain how we will show the product to our clients in iterative stages
+and how we get constant feedback and obtain new requirements or changing requirements.
+
+5 Project organisation page 8:
+Further explain our roles in the coding implementation of our product
+Example: 
+Hong long working on the map
+
+Constraints:
+Java 1.7, time api I used was 1.8 had to change method.
+
+Create risk management matrix (last 2 weeks lecture)
+Explain definition of high, medium low
+Prevention (how to prevent it)
+Mitigation (how to limit the impact)
